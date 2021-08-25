@@ -1,0 +1,5 @@
+decrypt.py
+git clone https://github.com/HCTools/hcdecryptor.git
+cd hcdecryptor
+pip3 install -r requirements.txt
+python3 decrypt.py encrypted.hc
